@@ -1,5 +1,5 @@
 # Obi-python-workshop
-my first attempt at a python data exploration
+my first attempt at  python data exploration
 https://obi-python-workshop-f4hxen6rnm5n35czcguayz.streamlit.app/
 # Universal Data Explorer
 
@@ -17,7 +17,7 @@ industry dataset, medical records, or anything else with rows and columns.
 - **Distributions**: histograms for numeric columns, bar charts for categorical columns, time series for dates — auto-detected per column
 - **Target variable analysis**: the app *infers* a likely target column from naming patterns, position, and cardinality, and lets you override it via dropdown. Handles both classification-shaped (class balance, boxplots vs. features) and regression-shaped (distribution, correlation with target) targets.
 
-This app is **exploration-only** 
+This app is **exploration-only** , one day I will be able to do more. 
 
 
 
